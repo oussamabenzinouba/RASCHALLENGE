@@ -1,0 +1,4 @@
+This is the IEEE ISI SB RAS Challenge submission repo, in it you will find the following:
+A python code that's used to determine one's location and speed using google maps's API.
+a object detection code that's used to determine if the laws of the road are being violated or not .
+the simulations on how our idea impacted the number of road accidents and the number of points gained by following the rules of the road.
